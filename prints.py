@@ -1,2 +1,5 @@
 print("hello World!")
 print ("*****")
+print("surya")
+print("age:",21 "years")
+print("hobby:coding")
