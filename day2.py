@@ -1,5 +1,6 @@
 #hihihihih
 #wassup guys sorry for today 
+# This script demonstrates string iteration
 a="surya"
 for x in a 
  print(x)
