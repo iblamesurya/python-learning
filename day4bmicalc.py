@@ -16,3 +16,8 @@ def get_choices():
     
 choices = get_choices()
 print(choices)
+# Write code below 💖
+mass = float(input("enter your weight:"))
+height = float(input("enter your height:"))
+bmi= mass/height**2
+print(bmi)
