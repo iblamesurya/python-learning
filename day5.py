@@ -11,4 +11,9 @@ balance = 200
 rate = 0.2
 balance=balance+(balance*rate)
 print(balance)
-
+#moores law code 
+# Write code below 💖
+transistors=2500000
+years=10
+transistors=transistors*2**(years/2)
+print(transistors)
