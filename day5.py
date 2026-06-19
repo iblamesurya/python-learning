@@ -5,3 +5,10 @@ soles = float(input("What do you have left in soles?"))
 reais = float(input("What do you have left in reais?"))
 usd = (pesos*0.00029 + soles*0.30 + reais*0.19) 
 print(usd)
+#simple intrest caluclator
+# Write code below 💖
+balance = 200
+rate = 0.2
+balance=balance+(balance*rate)
+print(balance)
+
